@@ -1,0 +1,10 @@
+{
+  "amazon": {
+    "key": "XXXX",
+    "secret": "XXXX",
+    "bucket": {
+      "name": "bucket-name",
+      "region": "eu-central-1"
+    }
+  }
+}
